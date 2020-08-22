@@ -1,3 +1,2 @@
 # hello
-demo environment for data analysis package, cloud9
-# hello
+[![CircleCI](https://circleci.com/gh/wjoe2046/hello.svg?style=svg)](https://circleci.com/gh/wjoe2046/hello)
